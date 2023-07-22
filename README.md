@@ -1,6 +1,6 @@
-# MUSTWELL-master
+# MASTER-master
 
-This repository includes the benchmark datasets and the source code of the baselines and the proposed MUSTWELL.
+This repository includes the benchmark datasets and the source code of the baselines.
 
 
 # Release
