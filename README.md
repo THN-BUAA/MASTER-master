@@ -4,4 +4,4 @@ This repository includes the benchmark datasets and the source code of the basel
 
 
 # Release
-The source code of MASTER will be released soon. Please stay tuned for the release.
+The source code of MASTER will be released soon. Please stay tuned for the release. Thanks!
